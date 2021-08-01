@@ -2,7 +2,7 @@
 <updates>
 	<update>
 		<name>RP Twitter Feeds</name>
-		<description>A fully customizable module for twitter feeds, provided by RP Extensions.</description>
+		<description>A fully customizable module for Twitter feeds, provided by RP Extensions.</description>
 		<element>mod_twitter_feeds</element>
 		<type>module</type>
 		<client>0</client>
@@ -17,7 +17,7 @@
 
 	<update>
 		<name>RP Twitter Feeds</name>
-		<description>A fully customizable module for twitter feeds, provided by RP Extensions.</description>
+		<description>A fully customizable module for Twitter feeds, provided by RP Extensions.</description>
 		<element>mod_twitter_feeds</element>
 		<type>module</type>
 		<client>0</client>

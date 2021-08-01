@@ -1,8 +1,8 @@
 Twitter Feeds for Joomla
 ----------
-##### This is a fully customizable module for twitter feeds, provided by RP Extensions.
+##### This is a fully customizable module for Twitter feeds, provided by RP Extensions.
 
-##### [Install the module](https://github.com/rpextensions/twitter-feeds-joomla/raw/master/mod_twitter_feeds_v1.0.0.zip) and enable and choose Module assignment (on which pages you want this module to be assigned), it will start working and then you can configure according to your requirements.
+##### [Install the module](https://github.com/rpextensions/twitter-feeds-joomla/raw/master/mod_twitter_feeds_v1.0.0.zip), enable it and choose Module assignment (on which pages you want this module to be assigned), it will start working and then you can configure according to your requirements.
 
 Configuration
 ----------

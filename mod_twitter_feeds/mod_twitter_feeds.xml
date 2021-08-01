@@ -2,7 +2,7 @@
 <extension type="module" client="site" method="upgrade">
     <name>mod_twitter_feeds</name>
     <author>Rishabh Ranjan Jha</author>
-    <creationDate>July 2021</creationDate>
+    <creationDate>August 2021</creationDate>
     <copyright>(C) 2021 Rishabh Ranjan Jha</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorEmail>rpextensions@gmail.com</authorEmail>
