@@ -182,6 +182,7 @@
                     class="btn-group btn-group-yesno"
                     description="MOD_TWITTER_FEEDS_FIELD_SCROLLBAR_DESC"
                     default="0"
+                    showon="height:0"
                     >
                     <option value="0">JHide</option>
                     <option value="1">JShow</option>

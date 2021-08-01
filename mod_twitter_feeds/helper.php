@@ -50,7 +50,7 @@ class TwitterFeedsHelper
 			$chrome .= 'nofooter%20';
 		}
 
-		if ($params->get('scrollbar', '0') === '0')
+		if ($params->get('scrollbar', '0') === '0' && $params->get('height', '0') === '0')
 		{
 			$chrome .= 'noscrollbar%20';
 		}
