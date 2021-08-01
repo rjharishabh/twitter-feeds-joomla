@@ -10,13 +10,12 @@
     <description>MOD_TWITTER_FEEDS_XML_DESCRIPTION</description>
     <files>
         <filename module="mod_twitter_feeds">mod_twitter_feeds.php</filename>
-        <folder>src</folder>
+        <filename>helper.php</filename>
     </files>
     <languages>
 		<language tag="en-GB">language/en-GB/en-GB.mod_twitter_feeds.ini</language>
 		<language tag="en-GB">language/en-GB/en-GB.mod_twitter_feeds.sys.ini</language>
 	</languages>
-    <namespace path="src">Joomla\Module\TwitterFeeds</namespace>
     <config>
         <fields name="params">
             <fieldset name="basic">
@@ -135,7 +134,7 @@
                     name="header"
                     type="radio"
                     label="MOD_TWITTER_FEEDS_FIELD_HEADER_LABEL"
-                    layout="joomla.form.field.radio.switcher"
+                    class="btn-group btn-group-yesno"
                     description="MOD_TWITTER_FEEDS_FIELD_HEADER_DESC"
                     default="1"
                     >
@@ -147,7 +146,7 @@
                     name="footer"
                     type="radio"
                     label="MOD_TWITTER_FEEDS_FIELD_FOOTER_LABEL"
-                    layout="joomla.form.field.radio.switcher"
+                    class="btn-group btn-group-yesno"
                     description="MOD_TWITTER_FEEDS_FIELD_FOOTER_DESC"
                     default="1"
                     >
@@ -159,7 +158,7 @@
                     name="borders"
                     type="radio"
                     label="MOD_TWITTER_FEEDS_FIELD_BORDERS_LABEL"
-                    layout="joomla.form.field.radio.switcher"
+                    class="btn-group btn-group-yesno"
                     description="MOD_TWITTER_FEEDS_FIELD_BORDERS_DESC"
                     default="0"
                     >
@@ -180,7 +179,7 @@
                     name="scrollbar"
                     type="radio"
                     label="MOD_TWITTER_FEEDS_FIELD_SCROLLBAR_LABEL"
-                    layout="joomla.form.field.radio.switcher"
+                    class="btn-group btn-group-yesno"
                     description="MOD_TWITTER_FEEDS_FIELD_SCROLLBAR_DESC"
                     default="0"
                     >
@@ -192,7 +191,7 @@
                     name="dnt"
                     type="radio"
                     label="MOD_TWITTER_FEEDS_FIELD_DNT_LABEL"
-                    layout="joomla.form.field.radio.switcher"
+                    class="btn-group btn-group-yesno"
                     description="MOD_TWITTER_FEEDS_FIELD_DNT_DESC"
                     default="true"
                     >

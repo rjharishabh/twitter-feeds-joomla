@@ -6,7 +6,7 @@
 
 defined('_JEXEC') or die;
 
-use Joomla\Module\TwitterFeeds\Site\Helper\TwitterFeedsHelper;
+\JLoader::register('TwitterFeedsHelper', __DIR__ . '/helper.php');
 
 $html = TwitterFeedsHelper::getResponseHtml($params);
 

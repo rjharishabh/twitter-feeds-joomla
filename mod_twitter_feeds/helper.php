@@ -4,8 +4,6 @@
  * @license     GNU General Public License version 2 or later; see LICENSE.txt
  */
 
-namespace Joomla\Module\TwitterFeeds\Site\Helper;
-
 defined('_JEXEC') or die;
 
 /**
